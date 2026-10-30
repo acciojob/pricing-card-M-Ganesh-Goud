@@ -6,4 +6,31 @@
 	background-color:white;
 }
 button{
-background-color:orange}
+background-color:orange}.box {
+    width: 300px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0px 0px 10px gray;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: orange;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
